@@ -1,0 +1,15 @@
+/* Make the image of slide show fully responsive */
+.carousel-inner img {
+	width: 100%;
+}
+
+.mycard{
+	margin: 25px 0px;
+}
+.descrip-card{
+	background-color: #cce5ff;
+	margin-top: 5px;
+}
+.head-padding{
+	padding-bottom: 7px;
+}
